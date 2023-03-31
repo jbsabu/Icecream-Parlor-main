@@ -1,4 +1,4 @@
-const products = [
+export const products = [
 {
   name: 'Single Scoop',
   flavor: 'Vanilla',
@@ -15,9 +15,13 @@ const products = [
   price: 8.52,
 },
 {
+  name: 'Banana Split',
+  flavor: 'Banana',
+  price: 11.45
+},
+{
   name: 'Sundae',
   flavor: 'Strawberry',
   price: 10.05,
 },
-
 ]

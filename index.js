@@ -1,5 +1,4 @@
 import { MongoClient } from "mongodb";
-import { get } from 'http';
 
 import { credentials } from './credentials.js'
 
